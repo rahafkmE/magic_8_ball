@@ -1,2 +1,3 @@
 # magic_8_ball
  
+The Magic 8 Ball app is a digital version of the popular fortune-telling toy. It provides users with a quick and entertaining way to seek answers to their questions or make decisions. The app features a virtual Magic 8 Ball that responds to user inquiries by generating random responses such as "Yes", "No", "I have no idea", "The answer is yes", or "Ask again later". Users can simply tap on the screen to activate the Magic 8 Ball and receive a randomized answer. The app is designed to add an element of fun and unpredictability to decision-making processes or provide lighthearted guidance on various topics.
